@@ -1,0 +1,8 @@
+TRUNCATE  ->
+
+TRUNCATE queries are used to clean the table, remove all the existing records, but not the table itself.
+
+
+//  EXAMPLE  //
+
+TRUNCATE TABLE table_name;
