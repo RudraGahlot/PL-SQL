@@ -1,0 +1,10 @@
+ALTER ->
+
+ALTER queries are used to modify the structure of a database or a table such as adding a new column, 
+change the data type, drop, or rename an existing column, etc.
+
+
+// EXAMPLE   //
+
+ALTER TABLE table_name 
+ADD column_name datatype;
