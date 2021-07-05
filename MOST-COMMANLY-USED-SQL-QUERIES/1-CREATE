@@ -1,0 +1,10 @@
+CREATE queries are used to create a new database or table.
+
+
+
+// example  //
+
+CREATE TABLE table_name (
+  column_1 datatype_1,
+  column_2 datatype_2,
+);
