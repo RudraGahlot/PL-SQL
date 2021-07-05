@@ -1,0 +1,11 @@
+ DROP ->
+
+DROP queries are used to delete a database or table.
+You should also be careful when using this type of query because
+it will remove everything, including table definition along with all the data, 
+indexes, triggers, constraints and permission specifications for that table.
+
+
+//EXAMPLE  //
+
+DROP TABLE table_name;
